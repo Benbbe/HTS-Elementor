@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//s710294037.onlinehome.fr/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>http://s710294037.onlinehome.fr/post-sitemap.xml</loc>
+		<lastmod>2020-02-20T13:33:02+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://s710294037.onlinehome.fr/page-sitemap.xml</loc>
+		<lastmod>2020-04-14T08:35:46+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://s710294037.onlinehome.fr/category-sitemap.xml</loc>
+		<lastmod>2020-02-20T13:33:02+00:00</lastmod>
+	</sitemap>
+</sitemapindex>
